@@ -32,11 +32,11 @@ int main() {
     printf("Insira o valor do PIB: ");
     scanf("%f", &pib);
 
-    printf("Insira a quantidade de pontos turísticos: \n");
+    printf("Insira a quantidade de pontos turísticos: ");
     scanf("%d", &pontosTuristicos);
 
 
-    printf("CADASTRO DE CARTAS SUPER TRUNFO - PAÍSES\n");
+    printf("\n CADASTRO DE CARTAS SUPER TRUNFO - PAÍSES\n");
     printf("CARTA 2\n");
 
     printf("Digite o nome do estado (use uma letra de 'A' a 'H'): ");
